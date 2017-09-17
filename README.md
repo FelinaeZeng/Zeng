@@ -12,5 +12,5 @@ _italicized_
 
 **BOLD**
 
-_http://baidu.co_
-\_http://baidu.co\_
+_htp://baidu.co_
+\_htp://baidu.co \_
